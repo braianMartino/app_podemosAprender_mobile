@@ -12,7 +12,7 @@ app_pa_django
 app_pa_react
 ~~~
 
-Después en este directorio
+Después dentro del directorio app_pa_django
 1. `pip install -r requirements.txt`
 2. `python manage.py migrate`
 3. `python manage.py createsuperuser`
