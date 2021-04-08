@@ -19,7 +19,7 @@ Después en este directorio
 4. `python manage.py runserver`
 
 Deberías poder entrar
-* Al [admin](http://127.0.0.1:8000/admin) y crear Lugares con su foto
+* Al [admin](http://127.0.0.1:8000/admin) 
 * A [la app react](http://127.0.0.1:8000/app/index.html) y ver el login a la app de podemos aprender
 
 
